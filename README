@@ -1,0 +1,5 @@
+# Simple PHP/MySQL url shortener
+
+
+
+As the title says, to install ensure that shortify.sql is imported into your MySQL database
